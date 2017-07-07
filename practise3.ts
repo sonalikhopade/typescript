@@ -3,8 +3,11 @@ import { People } from "./practisenw3";
 class Triangle implements People
 {
     
+   
+    
 simple()
 {
+     console.log('sonali');
     var a=""
     //var i,j;
     for(var i = 1; i <= 6; i++)
